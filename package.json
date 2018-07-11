@@ -35,8 +35,8 @@
 		"postinstall": "node ./node_modules/vscode/bin/install"
 	},
 	"devDependencies": {
-		"typescript": "^1.8.5",
-		"vscode": "^0.11.0"
+		"typescript": "^2.9.2",
+		"vscode": "^1.1.18"
 	},
 	"__metadata": {
 		"id": "797a79de-a0fd-4349-9034-bec47be9a941",
